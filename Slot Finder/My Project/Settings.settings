@@ -1,0 +1,65 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Library" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;Red&lt;/string&gt;
+  &lt;string&gt;Green&lt;/string&gt;
+  &lt;string&gt;Blue&lt;/string&gt;
+  &lt;string&gt;Orange&lt;/string&gt;
+  &lt;string&gt;Gold&lt;/string&gt;
+  &lt;string&gt;Grey&lt;/string&gt;
+  &lt;string&gt;Silver&lt;/string&gt;
+  &lt;string&gt;White&lt;/string&gt;
+  &lt;string&gt;Black&lt;/string&gt;
+  &lt;string&gt;Purple&lt;/string&gt;
+  &lt;string&gt;Pink&lt;/string&gt;
+  &lt;string&gt;Beige&lt;/string&gt;
+  &lt;string&gt;Brown&lt;/string&gt;
+  &lt;string&gt;Yellow&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="History" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;Red&lt;/string&gt;
+  &lt;string&gt;Green&lt;/string&gt;
+  &lt;string&gt;Blue&lt;/string&gt;
+  &lt;string&gt;Orange&lt;/string&gt;
+  &lt;string&gt;Gold&lt;/string&gt;
+  &lt;string&gt;Grey&lt;/string&gt;
+  &lt;string&gt;Silver&lt;/string&gt;
+  &lt;string&gt;White&lt;/string&gt;
+  &lt;string&gt;Black&lt;/string&gt;
+  &lt;string&gt;Purple&lt;/string&gt;
+  &lt;string&gt;Pink&lt;/string&gt;
+  &lt;string&gt;Beige&lt;/string&gt;
+  &lt;string&gt;Brown&lt;/string&gt;
+  &lt;string&gt;Yellow&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="CustomName" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;White&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="CustomColor" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="PurgeList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ColorList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;a&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
